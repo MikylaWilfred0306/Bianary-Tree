@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1476731960 source:/home/mikyla/Documents/trees/main.cpp
+	"UnbalancedTree.h"
+	"UnbalancedTree.cpp"
+	"AVLTree.h"
+	"AVLTree.cpp"
+	<iostream>
+
+1476721204 /home/mikyla/Documents/trees/UnbalancedTree.h
+	"node.h"
+
+1476722891 /home/mikyla/Documents/trees/node.h
+
+1476734435 source:/home/mikyla/Documents/trees/UnbalancedTree.cpp
+	"UnbalancedTree.h"
+	<iostream>
+
+1476734435 /home/mikyla/Documents/trees/UnbalancedTree.cpp
+	"UnbalancedTree.h"
+	<iostream>
+
+1476734435 source:/home/mikyla/Documents/trees/AVLTree.cpp
+	"AVLTree.h"
+
+1476725700 /home/mikyla/Documents/trees/AVLTree.h
+	"UnbalancedTree.h"
+
+1476734435 /home/mikyla/Documents/trees/AVLTree.cpp
+	"AVLTree.h"
+
+1473618600 /home/mikyla/Documents/trees/algorithm.hpp
+	<algorithm>
+
+1473618600 /home/mikyla/Documents/trees/test.hpp
+
